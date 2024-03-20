@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: darkred;
+   background-color: burlywood;
+}
+h3{
+    color: brown;
+    background-color: burlywood;
+}
